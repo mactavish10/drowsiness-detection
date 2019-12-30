@@ -20,7 +20,7 @@ Referring to the paper [Real-Time Eye Blink Detection using Facial Landmarks, Te
 ![Alt](Eye_Aspect_Ratio_formula.png)
 
 where, p1,...,p6 are as shown below :
-![Alt](Eye-Aspect-Ratio-formula.jpg)
+![Alt](Eye-Aspect-Ratio.jpg)
 
 The coordinates for each landmark point can be found using the part number as listed in the Facial Landmarks picture above, which is then used to compute the Eye Aspect Ratio.
 
